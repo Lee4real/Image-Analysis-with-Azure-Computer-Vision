@@ -26,4 +26,3 @@ python image-analysis.py images/street.jpg
 ```
 
 This will analyze the image and save the results.
-# Image-Analysis-with-Azure-Computer-Vision
